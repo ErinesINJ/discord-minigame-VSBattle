@@ -10,6 +10,9 @@ You can edit the pictures of the items and their names in the ``modules/game.py`
 
 # Config
 allowed_channel_id = allowed discord channel ID to interact with bot (int)
+
 allowed_role_id = allowed discord role ID to interact with bot (int)
+
 guild_id = discord server ID (int)
+
 discord_bot_token = token to access your discord bot
